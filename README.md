@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I'm currently working on my New Research<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with Node.js Back-End Dev<br>🌱 I’m currently learning Node.js/C++/Java/Phython<br>
+🔭 I'm currently working on my Own Projects<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with Deep Learning<br>🌱 I’m currently learning C++/Java/Phython/PHP<br>
 
 
 ## 🌐 Socials:
